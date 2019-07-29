@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+    <string name="monthly_payment">Monthly Payment</string>
+    <string name="amount_borrowed">Amount Borrowed</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="of_years"># of Years</string>
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="_0">0</string>
+    <string name="user_form">User Form</string>
+    <string name="submit">Submit</string>
+    <string name="first_name_last_name">First Name Last Name</string>
+    <string name="go_to_users">Go To Users</string>
+
+
+</resources>
